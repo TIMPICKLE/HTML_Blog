@@ -26,7 +26,8 @@ Tim Berners-Lee
 * tabindex
 * title
 
-## 常用的内容标签有哪些，分别是什么意思（a、strong、em、code、pre 等等）
+## 常用的内容标签有哪些，分别是什么意思
+```
 * <ol><li> order list
 * <ul><li>  unorder list
 * <dl><dt><dd> description list/term/data
@@ -38,3 +39,4 @@ Tim Berners-Lee
 * <em> 强调（语气）
 * <quote> 引用（行内）
 * <blockquote> 引用（块级）
+```
